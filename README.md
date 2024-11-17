@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Harry  
 
 <p align="center">
-  <img alt="Gojo Satoru Jujutsu Kaisen GIF" width="400" src="https://github.com/user-attachments/assets/be6624c0-4cf8-4004-8aee-bc2742cc5454" />
+  <img alt="Gojo Satoru Jujutsu Kaisen GIF" width="600" src="https://github.com/user-attachments/assets/be6624c0-4cf8-4004-8aee-bc2742cc5454" />
 </p>
 
 🎓 **Bachelor of Electrical Engineering and Computer Science** student in Taiwan 🇹🇼.  

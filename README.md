@@ -36,6 +36,11 @@
 
 ---
 
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharryhsu&langs_count=8&layout=compact&theme=radical)
+
+---
+
 ## 📬 Let's Connect!  
 <p align="left">
   <a href="mailto:kharryhsu@gmail.com" target="blank">
@@ -51,5 +56,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
   </a>  
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kharryhsu&langs_count=8)

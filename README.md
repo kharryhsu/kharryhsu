@@ -36,8 +36,9 @@
 
 ---
 
-## 📊 Top Languages
+## 📊 Stats
 ![Top Langs](https://github-readme-stats-beige-nine-57.vercel.app/api/top-langs/?username=kharryhsu&langs_count=8&layout=compact&theme=radical&count-private=true)
+![KHarryHsu GitHub stats](https://github-readme-stats-beige-nine-57.vercel.app/api?username=kharryhsu&show_icons=true&count-private=true&theme=radical)
 
 ---
 

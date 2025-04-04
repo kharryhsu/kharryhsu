@@ -1,8 +1,9 @@
 # 👋 Hello, World! I'm Harry  
 
 <p align="center">
-  <img alt="Gojo Satoru Jujutsu Kaisen GIF" width="600" src="https://github.com/user-attachments/assets/be6624c0-4cf8-4004-8aee-bc2742cc5454" />
+  <img alt="Hatsune Miku GIF" width="600" src="https://github.com/user-attachments/assets/d0a078db-545a-45f3-978e-49492e712bcb" />
 </p>
+
 
 🎓 **Bachelor of Electrical Engineering and Computer Science** student in Taiwan 🇹🇼.  
 💡 Passionate about **Math**, solving **LeetCode** challenges, creating **projects**, and sharpening my **coding skills**.  

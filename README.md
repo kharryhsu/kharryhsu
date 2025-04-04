@@ -12,10 +12,12 @@
 
 ---
 
-## 🔧 Languages and Tools  
+## 🔥 Recent Using
+[![Recent Using](https://skillicons.dev/icons?i=c,cpp,python,matlab,anaconda)](https://skillicons.dev)
 
-### Recent Using
-[![Recent Using](https://skillicons.dev/icons?i=c,cpp,python,matlab)](https://skillicons.dev)
+---
+
+## 🔧 Languages and Tools  
 
 ### Programming Languages  
 [![Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,dart,java,javascript)](https://skillicons.dev)

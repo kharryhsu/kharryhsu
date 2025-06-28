@@ -13,14 +13,14 @@
 ---
 
 ## 🔥 Currently Using
-[![Recent Using](https://skillicons.dev/icons?i=c,cpp,python,matlab,anaconda)](https://skillicons.dev)
+[![Recent Using](https://skillicons.dev/icons?i=python,unity,cs,r)](https://skillicons.dev)
 
 ---
 
 ## 🔧 Languages and Tools  
 
 ### Programming Languages  
-[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,dart,java,javascript)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,python,dart,java,javascript,r)](https://skillicons.dev)
 
 ### Web Development  
 [![Web Development](https://skillicons.dev/icons?i=html,css,nodejs,express)](https://skillicons.dev)
@@ -38,7 +38,7 @@
 [![Data Science & AI](https://skillicons.dev/icons?i=scikitlearn,tensorflow,opencv,pytorch,anaconda)](https://skillicons.dev)
 
 ### Other Tools & Technologies
-[![Other Tools & Technologies](https://skillicons.dev/icons?i=matlab,sketchup,arduino,blender,figma)](https://skillicons.dev) 
+[![Other Tools & Technologies](https://skillicons.dev/icons?i=matlab,sketchup,arduino,blender,figma,unity)](https://skillicons.dev) 
 
 ---
 

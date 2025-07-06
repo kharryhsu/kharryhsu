@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Harry  
 
 <p align="center">
-  <img alt="Hatsune Miku GIF" width="600" src="https://github.com/user-attachments/assets/d0a078db-545a-45f3-978e-49492e712bcb" />
+  <img alt="Hatsune Miku GIF" width="600" src="https://github.com/user-attachments/assets/51411d44-5562-4f03-95e7-bc68b0f2a9f1" />
 </p>
 
 

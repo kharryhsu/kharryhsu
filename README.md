@@ -38,7 +38,7 @@
 [![Data Science & AI](https://skillicons.dev/icons?i=scikitlearn,tensorflow,opencv,pytorch,anaconda)](https://skillicons.dev)
 
 ### Other Tools & Technologies
-[![Other Tools & Technologies](https://skillicons.dev/icons?i=matlab,sketchup,arduino,blender,figma,unity)](https://skillicons.dev) 
+[![Other Tools & Technologies](https://skillicons.dev/icons?i=matlab,sketchup,arduino,blender,figma,unity,ai,ps,pr)](https://skillicons.dev) 
 
 ---
 

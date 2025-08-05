@@ -13,7 +13,7 @@
 ---
 
 ## 🔥 Currently Using
-[![Recent Using](https://skillicons.dev/icons?i=python,unity,cs,r)](https://skillicons.dev)
+[![Recent Using](https://skillicons.dev/icons?i=cpp,python,unity,cs,r)](https://skillicons.dev)
 
 ---
 

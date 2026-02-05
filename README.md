@@ -1,8 +1,9 @@
 # 👋 Hello, World! I'm Harry  
 
 <p align="center">
-  <img alt="Hatsune Miku GIF" width="600" src="https://github.com/user-attachments/assets/51411d44-5562-4f03-95e7-bc68b0f2a9f1" />
+  <img alt="Silverwolf GIF" width="600" src="https://github.com/user-attachments/assets/bcc47629-6c25-4264-9a9b-43582f297522" />
 </p>
+
 
 
 🎓 **Bachelor of Electrical Engineering and Computer Science** student in Taiwan 🇹🇼.  

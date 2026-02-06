@@ -9,7 +9,10 @@
 🎓 **Bachelor of Electrical Engineering and Computer Science** student in Taiwan 🇹🇼.  
 💡 Passionate about **Math**, solving **LeetCode** challenges, creating **projects**, and sharpening my **coding skills**.  
 🎮 Outside of academics, I enjoy **working out**, **gaming**, **reading manhwa**, **drawing**, and **playing guitar**.  
-🌱 Currently learning **Japanese** to expand my horizons.  
+🌱 Currently learning **Japanese** to expand my horizons.
+
+📄 Resume: 
+<a href="https://raw.githubusercontent.com/kharryhsu/RatchanonHsu-Resume/0146d5a9dac1b6b70469f4c3e1271432f3eb22c3/RATCHANON_HSU_RESUME.pdf" target="_blank">View Resume</a>
 
 ---
 
@@ -18,28 +21,8 @@
 
 ---
 
-## 🔧 Languages and Tools  
-
-### Programming Languages  
-[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,cs,python,dart,java,javascript,r)](https://skillicons.dev)
-
-### Web Development  
-[![Web Development](https://skillicons.dev/icons?i=html,css,nodejs,express)](https://skillicons.dev)
-
-### Mobile Development  
-[![Mobile Development](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
-
-### Database
-[![Database](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
-
-### DevOps & Deployment  
-[![DevOps & Deployment](https://skillicons.dev/icons?i=docker,googlecloud)](https://skillicons.dev)
-
-### Data Science & AI  
-[![Data Science & AI](https://skillicons.dev/icons?i=scikitlearn,tensorflow,opencv,pytorch,anaconda)](https://skillicons.dev)
-
-### Other Tools & Technologies
-[![Other Tools & Technologies](https://skillicons.dev/icons?i=matlab,sketchup,arduino,blender,figma,unity,ai,ps,pr,notion)](https://skillicons.dev) 
+## 🎨 Creative & Productivity Tools  
+[![Creative Tools](https://skillicons.dev/icons?i=blender,figma,ai,ps,pr,notion)](https://skillicons.dev)
 
 ---
 

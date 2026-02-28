@@ -7,7 +7,7 @@
 
 
 🎓 **Bachelor of Electrical Engineering and Computer Science** student in Taiwan 🇹🇼.  
-💡 Passionate about **Math**, solving **LeetCode** challenges, creating **projects**, and sharpening my **coding skills**.  
+💡 Passionate about **Math**, solving **Codeforces** challenges, creating **projects**, and sharpening my **coding skills**.  
 🎮 Outside of academics, I enjoy **working out**, **gaming**, **reading manhwa**, **drawing**, and **playing guitar**.  
 🌱 Currently learning **Japanese** to expand my horizons.
 

@@ -17,7 +17,7 @@
 ---
 
 ## 🔥 Currently Using
-[![Recent Using](https://skillicons.dev/icons?i=cpp,python,unity,cs,r,blender)](https://skillicons.dev)
+[![Recent Using](https://skillicons.dev/icons?i=cpp,python,unity,cs,r,latex,blender)](https://skillicons.dev)
 
 ---
 

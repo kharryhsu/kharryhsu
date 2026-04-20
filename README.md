@@ -32,18 +32,28 @@
 
 ---
 
-## 📬 Let's Connect!  
-<p align="left">
-  <a href="mailto:kharryhsu@gmail.com" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40"/>  
-  </a>
-  <a href="https://codeforces.com/profile/kharryhsu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/>
-  </a>  
-  <a href="https://www.leetcode.com/kharryhsu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/kharryhsu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
-  </a>  
-</p>
+## 📬 Let's Connect!
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <a href="mailto:kharryhsu@gmail.com">
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30">
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://codeforces.com/profile/kharryhsu">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30">
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.leetcode.com/kharryhsu">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30">
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://www.hackerrank.com/kharryhsu">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30">
+      </a>
+    </td>
+  </tr>
+</table>

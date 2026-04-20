@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Harry  
 
 <p align="center">
-  <img alt="Silverwolf GIF" width="600" src="https://github.com/user-attachments/assets/bcc47629-6c25-4264-9a9b-43582f297522" />
+  <img alt="Silverwolf GIF" width="800" src="https://github.com/user-attachments/assets/94e08b35-6147-4dce-9f9c-8d3b1184eb79"/>
 </p>
 
 

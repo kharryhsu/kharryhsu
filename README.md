@@ -88,7 +88,7 @@ Outside of academics: gaming, working out, reading manhwa, drawing, and music pr
 [![LeetCode](https://img.shields.io/badge/LeetCode-1a1a1a?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/kharryhsu)
 [![HackerRank](https://img.shields.io/badge/HackerRank-1a1a1a?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/kharryhsu)
 
-[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/hhharryhsuuu)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kkkkk.dll)
 [![Art](https://img.shields.io/badge/Art-1a1a1a?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kiseki.art_)
 [![YouTube](https://img.shields.io/badge/YouTube-1a1a1a?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@kiseki5254)
 [![Steam](https://img.shields.io/badge/Steam-1a1a1a?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/hharryhsuu)
